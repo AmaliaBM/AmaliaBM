@@ -16,6 +16,7 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 
 
 **If you want to meet me or have any questions, feel free to connect! 🤝**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaliabarrigasmunuera/)
 
 ## 🌐 Languages & Technologies 📦

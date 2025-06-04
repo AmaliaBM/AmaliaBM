@@ -20,17 +20,9 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 
 ## 🌐 Languages & Technologies 📦
 
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
-[![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)  
-[![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
-## 🛠️ Other Tool s🖥️
-[![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
-[![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/ADOBE_CREATIVE_CLOUD-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)  
-[![UX DESIGN](https://img.shields.io/badge/UX_DESIGN-000000?style=for-the-badge&logo=uxdesign&logoColor=white)](https://en.wikipedia.org/wiki/User_experience_design)  
-[![UI DESIGN](https://img.shields.io/badge/UI_DESIGN-0052CC?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/User_interface_design)  
-[![TRELLO](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)  
-[![FIGJAM](https://img.shields.io/badge/FIGJAM-8E44AD?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/figjam/)  
+
+## 🛠️ Other Tools 🖥️
+[![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/ADOBE_CREATIVE_CLOUD-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html) [![UX DESIGN](https://img.shields.io/badge/UX_DESIGN-000000?style=for-the-badge&logo=uxdesign&logoColor=white)](https://en.wikipedia.org/wiki/User_experience_design) [![UI DESIGN](https://img.shields.io/badge/UI_DESIGN-0052CC?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/User_interface_design) [![TRELLO](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) [![FIGJAM](https://img.shields.io/badge/FIGJAM-8E44AD?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/figjam/)
+

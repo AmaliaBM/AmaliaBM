@@ -48,5 +48,6 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 [![LM STUDIO](https://img.shields.io/badge/LM%20STUDIO-4B0082?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://lmstudio.ai/)
 [![COMFYUI](https://img.shields.io/badge/COMFYUI-6A1B9A?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
 [![KAGGLE ANALYSIS](https://img.shields.io/badge/DATA_ANALYSIS_%7C_KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![CLOUDINARY](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 
 

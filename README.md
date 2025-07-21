@@ -19,7 +19,7 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaliabarrigasmunuera/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byamalia.tech/)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amaliabarrigas)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@amaliabm.tech])
 
 ## 🌐 Languages & Technologies 📦
 

@@ -21,9 +21,11 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byamalia.tech/)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amaliabm.tech)
 
-## 🌐 Languages & Technologies 📦
+### **🌐 Languages & Technologies 📦**
 
+[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -36,7 +38,7 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 [![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 
-## 🛠️ Other Tools 🖥️
+### **🛠️ Other Tools 🖥️**
 
 [![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/ADOBE_CREATIVE_CLOUD-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
@@ -49,5 +51,11 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 [![COMFYUI](https://img.shields.io/badge/COMFYUI-6A1B9A?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
 [![KAGGLE ANALYSIS](https://img.shields.io/badge/DATA_ANALYSIS_%7C_KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![CLOUDINARY](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
+
+### **👩‍💻 IDE & Editors 🔧**
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 

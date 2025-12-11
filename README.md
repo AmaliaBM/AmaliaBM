@@ -35,7 +35,6 @@ A few months ago, I also had a dog named London 🐶❤️, but after a long tim
 [![MONGOOSE](https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 
 ### **🛠️ Other Tools 🖥️**
